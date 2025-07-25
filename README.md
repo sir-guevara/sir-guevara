@@ -42,14 +42,6 @@ From building ETL pipelines in Azure Data Factory to designing HIPAA/GDPR-compli
 > See more projects on my [**portfolio website →**](https://mcguevara.com)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" width="300"/>
-</p>
-
----
 ### 🎓 Certifications
 
 - 🧠 PL-300: Power BI Data Analyst Associate  
